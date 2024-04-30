@@ -1,3 +1,0 @@
-function confirmation() {
-	Notification("confirmation");
-}
