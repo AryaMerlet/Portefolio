@@ -1,0 +1,82 @@
+html {
+	margin: 0 auto;
+}
+footer {
+	max-width: 100%;
+}
+main div {
+	overflow: hidden;
+	border: solid black 1px;
+	border-radius: 10%;
+	box-shadow: 5px 5px 5px black;
+	width: 630px;
+	margin: 20px auto;
+}
+main div a {
+	text-align: center;
+	text-decoration: none;
+	color: black;
+}
+.image_article {
+	max-width: 50%;
+	margin: 0 auto;
+}
+#barre {
+	width: 100%;
+	border: 3px solid #45526e;
+	margin-top: 200px;
+}
+header {
+	overflow: hidden;
+}
+#logo {
+	float: left;
+	width: 10%;
+}
+#marque {
+	float: left;
+	width: 90%;
+	font-size: 4em;
+	padding-left: 35%;
+}
+
+#navbar {
+	width: 90%;
+	float: left;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.nav {
+	float: left;
+	color: black;
+	text-decoration: none;
+	margin: 0 auto;
+	width: 20%;
+	font-size: 2em;
+}
+.nav p {
+	margin: 0 auto;
+}
+.miniature {
+	width: 100%;
+}
+.lien {
+	text-decoration: none;
+	color: white;
+}
+.labelhome {
+	max-width: 100%;
+	width: 20%;
+	margin: 0 auto;
+}
+#section {
+	margin: 0 auto;
+	width: 1260px;
+}
+
+/* #region contact.php  */
+.label_home {
+	width: 20%;
+	margin: 0 auto;
+}
+/* #endregion */
